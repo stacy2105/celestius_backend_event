@@ -5,7 +5,7 @@ A simple REST API built with Python and Flask for the Celestius Backend Team Rec
 ## Event details
 
 - **Event:** Backend Development Workshop
-- **Date:** 20 October 2026
+- **Date:** 24 October 2026
 - **Capacity:** 50 participants
 
 ## Features
